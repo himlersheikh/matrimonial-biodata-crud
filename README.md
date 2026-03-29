@@ -31,8 +31,8 @@
     <div style="width: 45%;">
       <h3>Submitted By</h3>
       <p>
-        <strong>Swadhin Biswas</strong><br>
-        ID: 222-15-6259<br>
+        <strong>MD Tuhin Sheikh</strong><br>
+        ID: 222-15-6288<br>
         Section: 62 F1<br>
         B.Sc. in CSE
       </p>
@@ -59,7 +59,7 @@ The development followed a systematic approach beginning with the database desig
 
 **GitHub Repository:**  
 The complete source code and project documentation have been uploaded to GitHub. You can view the full implementation details here:  
-[https://github.com/swadin-biswas/matrimonial-biodata-crud](https://github.com/swadin-biswas/matrimonial-biodata-crud)
+[https://github.com/himlersheikh/matrimonial-biodata-crud](https://github.com/himlersheikh/matrimonial-biodata-crud)
 
 ### 4. Implementation Details
 
