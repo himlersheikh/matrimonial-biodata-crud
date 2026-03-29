@@ -36,7 +36,7 @@
         Section: 62 F1<br>
         B.Sc. in CSE
       </p>
-    </div>A
+    </div>
   </div>
 </div>
 
