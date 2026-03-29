@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../images/universitylogo.png" alt="University Logo" width="150" />
+  <img src="https://i.pinimg.com/564x/72/2c/57/722c5710002814308caff02ffb294c0d.jpg" alt="University Logo" width="150" />
 
   <h2>DAFFODIL INTERNATIONAL UNIVERSITY</h2>
   <h4>Faculty of Science and Information Technology (FSIT)<br>Department of Computer Science & Engineering (CSE)</h4>
@@ -59,7 +59,7 @@ The development followed a systematic approach beginning with the database desig
 
 **GitHub Repository:**  
 The complete source code and project documentation have been uploaded to GitHub. You can view the full implementation details here:  
-[https://github.com/swadinbiswas/matrimonial-biodata-crud](https://github.com/swadinbiswas/matrimonial-biodata-crud)
+[https://github.com/swadin-biswas/matrimonial-biodata-crud](https://github.com/swadin-biswas/matrimonial-biodata-crud)
 
 ### 4. Implementation Details
 
